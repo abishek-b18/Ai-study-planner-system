@@ -1,0 +1,15 @@
+AI-Study-Planner-System/
+
+models/
+└── recommendation_model.pkl
+
+database/
+└── users.db
+
+templates/
+static/
+
+app.py
+train_model.py
+requirements.txt
+README.md
