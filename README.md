@@ -192,12 +192,3 @@ git push origin feature-name
 ## 📜 License
 
 This project is intended for **educational and research purposes**.
-
----
-
-## 👨‍💻 Developed By
-
-**Abishek**  
-BE CSE (AI & ML)  
-Passionate about AI, IoT, Data Visualization, and Smart Learning Systems
-
